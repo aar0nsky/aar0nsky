@@ -1,4 +1,4 @@
-## Hi there 👋
+Here for a _good_ time.
 
 <!--
 **aar0nsky/aar0nsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
